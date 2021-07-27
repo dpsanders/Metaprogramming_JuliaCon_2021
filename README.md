@@ -1,4 +1,4 @@
-# Metaprogramming_JuliaCon_2021
+# Metaprogramming workshop at JuliaCon 2021
 
 Notebooks for the JuliaCon 2021 Intro to Metaprogramming workshop.
 
