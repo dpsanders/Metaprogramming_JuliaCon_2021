@@ -2,7 +2,9 @@
 
 Notebooks for the JuliaCon 2021 Intro to Metaprogramming workshop.
 
-See them at https://nbviewer.jupyter.org/github/dpsanders/Metaprogramming_JuliaCon_2021/tree/master/
+View them online at [NBViewer](https://nbviewer.jupyter.org/github/dpsanders/Metaprogramming_JuliaCon_2021/tree/master)
+
+Video of the workshop is [here](https://www.youtube.com/watch?v=2QLhw6LVaq0)
 
 ## License
 The material in this repository is licensed as follows:
